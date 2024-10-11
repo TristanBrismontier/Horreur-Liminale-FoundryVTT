@@ -8,9 +8,9 @@
     "verified": "10"
   },
   "license": "LICENSE.txt",
-  "url": "https://github.com/infatuation-psa/Liminal-Horror-FoundryVTT/",
-  "manifest": "https://github.com/infatuation-psa/Liminal-Horror-FoundryVTT/releases/latest/download/system.json",
-  "download": "https://github.com/infatuation-psa/Liminal-Horror-FoundryVTT/releases/latest/download/system.zip",
+  "url": "https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/",
+  "manifest": "https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/releases/latest/download/system.json",
+  "download": "https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/releases/latest/download/system.zip",
   "authors": [
     {
       "name": "infatuation",
