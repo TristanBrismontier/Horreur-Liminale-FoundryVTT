@@ -11,7 +11,7 @@ Implements basic character and item sheets for playing [Liminal](https://horreur
 ## Installation - Manual - Foundry V10+
 
 1. In the FVTT Game Systems Menu, click `Install System`
-2. Enter the Manifest URL: `https://github.com/infatuation-psa/Liminal-Horror-FoundryVTT/releases/latest/download/system.json`
+2. Enter the Manifest URL: `https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/releases/latest/download/system.json`
 3. Allow players to "Create new Actors" in the "Configure Settings" permissions menu
 
 ## Contributing
