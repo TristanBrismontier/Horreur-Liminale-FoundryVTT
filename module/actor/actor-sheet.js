@@ -124,7 +124,7 @@ export class LiminalActorSheet extends ActorSheet {
           "system.abilities.DEX.value": this.actor.system.abilities.DEX.max,
         });
         await this.actor.update({
-          "system.abilities.WIL.value": this.actor.system.abilities.WIL.max,
+          "system.abilities.CTRL.value": this.actor.system.abilities.CTRL.max,
         });
       }
     });

@@ -80,7 +80,7 @@ export const rollItems = async (items) => {
 export const rollAbilities = async (formula) => ({
   STR: (await evaluateFormula(formula)).total,
   DEX: (await evaluateFormula(formula)).total,
-  WIL: (await evaluateFormula(formula)).total
+  CTRL: (await evaluateFormula(formula)).total
 });
 
 /**
@@ -184,7 +184,7 @@ const characterToActorData = (characterData) => ({
     abilities: {
       STR: { value: characterData.abilities.STR, max: characterData.abilities.STR },
       DEX: { value: characterData.abilities.DEX, max: characterData.abilities.DEX },
-      WIL: { value: characterData.abilities.WIL, max: characterData.abilities.WIL },
+      CTRL: { value: characterData.abilities.CTRL, max: characterData.abilities.CTRL },
     },
     hp: {
       max: characterData.hp,
