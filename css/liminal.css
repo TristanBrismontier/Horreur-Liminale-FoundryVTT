@@ -1,17 +1,17 @@
 @font-face {
-    src: url("../fonts/Alegreya-Regular.woff2");
-    font-family: "Alegreya";
+    src: url("../fonts/Arimo-Regular.ttf");
+    font-family: "Arimo";
 }
 
 @font-face {
-    src: url("../fonts/Alegreya-Medium.woff2");
-    font-family: "Alegreya";
+    src: url("../fonts/Arimo-Medium.ttf");
+    font-family: "Arimo";
     font-weight: 500;
 }
 
 @font-face {
-    src: url("../fonts/Alegreya-Bold.woff2");
-    font-family: "Alegreya";
+    src: url("../fonts/Arimo-Bold.ttf");
+    font-family: "Arimo";
     font-weight: bold;
 }
 
