@@ -1,6 +1,6 @@
 # Liminal Horror for FoundryVTT!
 
-Implements basic character and item sheets for playing [Liminal](https://goblinarchives.github.io/LiminalHorror/) in Foundry VTT. Liminal Horror is a modern horror ttrpg that can adapt to a myriad of different subgenres. It’s fail forward, rules-lite chasis where you play as characters that battle against (and are changed) by the horrors that lurk in the dark. As it is a hack of Cairn, this Foundry system itself is a fork of the [Cairn System for FoundryVTT](https://github.com/yochaigal/Cairn-FoundryVTT).
+Implements basic character and item sheets for playing [Liminal](https://horreurliminale.itch.io/horreur-liminale) in Foundry VTT. Liminal Horror is a modern horror ttrpg that can adapt to a myriad of different subgenres. It’s fail forward, rules-lite chasis where you play as characters that battle against (and are changed) by the horrors that lurk in the dark. As it is a hack of Cairn, this Foundry system itself is a fork of the [Cairn System for FoundryVTT](https://github.com/yochaigal/Cairn-FoundryVTT).
 
 ## Installation - Auto Installer (Recommended)
 
