@@ -13,7 +13,7 @@
   "download": "https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/releases/latest/download/system.zip",
   "authors": [
     {
-      "name": "TT",
+      "name": "TT"
     }
   ],  
   "esmodules": ["module/liminal.js"],
