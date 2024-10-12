@@ -15,7 +15,13 @@
     {
       "name": "TT"
     }
-  ],  
+  ],
+  "files": [
+    {
+      "name": "img/Logo.webp",
+      "type": "image"
+    }
+  ],
   "esmodules": ["module/liminal.js"],
   "styles": ["css/liminal.css"],
   "packs": [
