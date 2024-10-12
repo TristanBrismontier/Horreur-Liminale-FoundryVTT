@@ -29,6 +29,7 @@
             <button id="rest-button" type="button" {{#if data.system.deprived}}disabled{{/if}}>{{ localize 'LIMINAL.Rest' }}</button>
             <button id="restore-abilities-button" type="button" {{#if data.system.deprived}}disabled{{/if}}>{{ localize 'LIMINAL.RestoreAbilities' }}</button>
             <button id="die-of-fate-button" type="button">{{ localize 'LIMINAL.DieOfFate' }}</button>
+            <img src="Logo.png" width="500" height="600">
         </div>
         <!-- Abilities -->
         <div class="character-sheet-section-abilities">
@@ -45,7 +46,7 @@
             </div>
             {{/each}}
         </div>
-        <!-- Armor and cash -->
+        <!-- Armor  -->
         <div class="character-sheet-section-others">
             <div class="resource-counter stacked-counter">
                 <label>{{ localize 'LIMINAL.Armor' }}</label>
@@ -59,12 +60,12 @@
                     <span>{{data.system.stability}}</span>
                 </div>
             </div>
-            <div class="resource-counter stacked-counter">
-                <label for="system.cash">{{ localize 'LIMINAL.Cash' }}</label>
-                <div class="stacked-input-wrapper">
-                    <input type="text" name="system.cash" id="system.cash" value="{{data.system.cash}}" data-dtype="Number" />
-                </div>
-            </div>
+<!--  TODO Tristan           <div class="resource-counter stacked-counter">-->
+<!--                <label for="system.cash">{{ localize 'LIMINAL.Cash' }}</label>-->
+<!--                <div class="stacked-input-wrapper">-->
+<!--                    <input type="text" name="system.cash" id="system.cash" value="{{data.system.cash}}" data-dtype="Number" />-->
+<!--                </div>-->
+<!--            </div>-->
         </div>
         <div class="character-sheet-section-tabs">
             <nav class="tabs" data-group="primary">

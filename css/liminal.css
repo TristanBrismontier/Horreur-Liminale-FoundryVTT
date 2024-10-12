@@ -260,6 +260,10 @@
 .DEX-counter a,
 .CTRL-counter a {
     width: 50%;
+    font-family: "Arimo", Times, "Times New Roman", Georgia, serif !important;
+    font-size: 18px !important;
+    font-variant: small-caps;
+    font-weight: bold;
 }
 
 .hp-counter .resource-input-wrapper,

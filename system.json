@@ -2,10 +2,10 @@
   "id": "liminal",
   "title": "Horreur Liminale",
   "description": "Liminal Horror for FoundryVTT",
-  "version": "0.10.28",
+  "version": "0.20.14",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "12"
   },
   "license": "LICENSE.txt",
   "url": "https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/",
@@ -13,8 +13,7 @@
   "download": "https://github.com/TristanBrismontier/Horreur-Liminale-FoundryVTT/releases/latest/download/system.zip",
   "authors": [
     {
-      "name": "infatuation",
-      "url": "https://infatuation.supply/"
+      "name": "TT",
     }
   ],  
   "esmodules": ["module/liminal.js"],
@@ -127,8 +126,8 @@
       "path": "lang/fr.json"
     }
   ],
-  "gridDistance": 1.5,
-  "gridUnits": "m",
+  "grid.distance": 1.5,
+  "grid.units": "m",
   "primaryTokenAttribute": "abilities.STR",
   "secondaryTokenAttribute": "hp"
 }
